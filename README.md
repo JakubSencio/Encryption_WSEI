@@ -1,9 +1,9 @@
 # Encryption_WSEI
 Zaliczenie przedmiotu Bezpieczeństwo systemów informatycznych 
 Aplikacja szyfrowania i rozszyfrowania tekstu
-Główny interface aplikacji poniżej.
-![image](https://github.com/JakubSencio/Encryption_WSEI/assets/116436495/352238af-9276-4a39-8c91-9f917fd4393c)
 
+![image](https://github.com/JakubSencio/Encryption_WSEI/assets/116436495/352238af-9276-4a39-8c91-9f917fd4393c)
+Główny interface aplikacji poniżej.
 Aby zaszyfrowac/rozszyfrować tekst należy:
 - wpisać tekst do zaszyfrowania
 - wpisać klucz
